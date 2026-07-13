@@ -1,1 +1,3 @@
+# Hi there! 👋
+
 I am a Full-Stack Software Engineer and ML/NLP Specialist dedicated to building high-performance web ecosystems, intuitive mobile applications, and custom machine learning pipelines. My expertise bridges robust backend architectures using Python (Flask), PyTorch, Node.js, and Express, with dynamic frontend and mobile designs built on JavaScript (React and React Native). For me, software development is both a professional pursuit and a deeply rewarding hobby. whether I am architecting complex full-stack solutions for production or spending my free time exploring geometric tensor transformations and training models from first principles, I genuinely love the process of building things that work.
